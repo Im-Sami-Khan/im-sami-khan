@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:samikhan.dev@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" alt="react" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/m-sami-khan-8998b4170/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-sami-khan-8998b4170/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="react" width="40" height="40"/></a>
 </p>
 
 <p align="center"> - 👨‍💻 All of my projects are available at my <a href="https://samikhan-portfolio.netlify.app/"> Portfolio </a> </p>
